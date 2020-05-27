@@ -1,0 +1,128 @@
+{
+  "selectedTemplate": 6,
+  "headings": {
+    "work": "",
+    "education": "",
+    "projects": "",
+    "awards": "",
+    "skills": "TECHNICAL"
+  },
+  "basics": {
+    "name": "Joseph Julian",
+    "email": "joseph.b.julian@gmail.com",
+    "phone": "(919) 414-1384",
+    "location": {
+      "address": "Lincolnshire, U.K."
+    },
+    "website": "github.com/jbjulia"
+  },
+  "education": [
+    {
+      "institution": "University of Maryland Global Campus",
+      "location": "College Park, MD",
+      "area": "Computer Science",
+      "studyType": "Bachelor of Applied Science",
+      "startDate": "Sep 2018",
+      "endDate": "Present",
+      "gpa": "3.7"
+    },
+    {
+      "institution": "West Johnston High School",
+      "location": "Benson, NC",
+      "gpa": "4.0",
+      "startDate": "Sep 2008",
+      "endDate": "Jun 2012",
+      "area": "National Honor Society, National Society of High School Scholars"
+    }
+  ],
+  "work": [
+    {
+      "company": "Department of Defense • National Security Agency",
+      "position": "Cryptologic Technician Collection Second Class (IW / SW)",
+      "website": "",
+      "startDate": "Aug 2014",
+      "endDate": "Present",
+      "highlights": [
+        "FIOC Battle Watch Supervisor - Provided analysis, fusion and time-sensitive tactical Information Operations (IO) support to U.S. and coalition units, and CNO-mandated special missions.",
+        "Divisional Leading Petty Officer - Supervised and lead 13 Sailors in their successful daily operations.",
+        "NCS Python Fundamentals Instructor - Instructed and certified 14 students in Fundamentals of Python."
+      ],
+      "location": "Lincolnshire, U.K."
+    },
+    {
+      "highlights": [
+        "Radio dispatcher for emergency services (Fire, Police and EMS) across 7 campuses.",
+        "Maintainer for Access database that housed dispatcher records, call logs, incident reports and tickets.",
+        "Key custodian for entire campus, maintaining control of key and access to all facilities and vehicles."
+      ],
+      "company": "Wake Technical Community College • Main Campus",
+      "location": "Raleigh, NC",
+      "startDate": "Nov 2011",
+      "endDate": "Feb 2014",
+      "position": "Security Dispatcher"
+    }
+  ],
+  "skills": [
+    {
+      "keywords": [
+        "Top Secret SCI (CI - Scope polygraph completed May 2015)"
+      ],
+      "name": "Clearance"
+    },
+    {
+      "level": "",
+      "keywords": [
+        "Python",
+        "Java",
+        "SQL",
+        "Visual Basic",
+        "C / C++",
+        "Git"
+      ],
+      "name": "Programming Languages"
+    },
+    {
+      "keywords": [
+        "Windows (XP / Vista / 7 / 8 / 10)",
+        "Linux (Kali / Mint / Red Hat / Ubuntu)"
+      ],
+      "name": "Operating Systems"
+    },
+    {
+      "keywords": [
+        "Cryptologic Carry-On Program (CCOP)",
+        "Ship's Signal Exploitation Equipment Increment E/F (SSEE INC E/F)",
+        "Joint Worldwide Intelligence Communications System (JWICS)"
+      ],
+      "name": "Technical Experience"
+    }
+  ],
+  "projects": [
+    {
+      "name": "PyKids",
+      "description": "An interactive learning environment that teaches the fundamentals of Python programming.",
+      "keywords": [
+        "Python",
+        "Qt Designer"
+      ],
+      "url": "https://github.com/jbjulia/PyKids"
+    }
+  ],
+  "awards": [
+    {
+      "title": "Navy and Marine Corps Achievement Medal",
+      "date": "Feb 2018",
+      "awarder": "Secretary of the Navy",
+      "summary": "Professional achievement in superior performance of duties."
+    }
+  ],
+  "sections": [
+    "templates",
+    "profile",
+    "education",
+    "work",
+    "skills",
+    "projects",
+    "awards"
+  ]
+}
