@@ -10,11 +10,11 @@
   "basics": {
     "name": "Joseph Julian",
     "email": "joseph.b.julian@gmail.com",
-    "phone": "(919) 414-1384",
+    "phone": "07497 65 9407",
     "location": {
       "address": "Lincolnshire, U.K."
     },
-    "website": "github.com/jbjulia"
+    "website": "jbjulia.github.io/resume"
   },
   "education": [
     {
@@ -43,8 +43,8 @@
       "startDate": "Aug 2014",
       "endDate": "Present",
       "highlights": [
-        "FIOC Battle Watch Supervisor - Provided analysis, fusion and time-sensitive tactical Information Operations (IO) support to U.S. and coalition units, and CNO-mandated special missions.",
-        "Divisional Leading Petty Officer - Supervised and lead 13 Sailors in their successful daily operations.",
+        "FIOC Battle Watch Supervisor - Provided analysis, fusion and time-sensitive tactical Information Operations support to U.S. and coalition units, and CJCS-mandated special missions.",
+        "Divisional Leading Petty Officer - Lead and supervised 13 Sailors in their successful daily operations.",
         "NCS Python Fundamentals Instructor - Instructed and certified 14 students in Fundamentals of Python."
       ],
       "location": "Lincolnshire, U.K."
@@ -59,7 +59,7 @@
       "location": "Raleigh, NC",
       "startDate": "Nov 2011",
       "endDate": "Feb 2014",
-      "position": "Security Dispatcher"
+      "position": "Telecommunications Specialist"
     }
   ],
   "skills": [
@@ -74,19 +74,24 @@
       "keywords": [
         "Python",
         "Java",
-        "SQL",
         "Visual Basic",
-        "C / C++",
-        "Git"
+        "SQL",
+        "C",
+        "HTML",
+        "CSS",
+        "JavaScript",
+        "PyQt",
+        "Flask",
+        "Bootstrap"
       ],
-      "name": "Programming Languages"
+      "name": "Programming"
     },
     {
       "keywords": [
         "Windows (XP / Vista / 7 / 8 / 10)",
         "Linux (Kali / Mint / Red Hat / Ubuntu)"
       ],
-      "name": "Operating Systems"
+      "name": "Systems"
     },
     {
       "keywords": [
@@ -99,13 +104,13 @@
   ],
   "projects": [
     {
-      "name": "PyKids",
-      "description": "An interactive learning environment that teaches the fundamentals of Python programming.",
       "keywords": [
         "Python",
-        "Qt Designer"
+        "PyQt"
       ],
-      "url": "https://github.com/jbjulia/PyKids"
+      "url": "github.com/jbjulia/athena",
+      "name": "Athena",
+      "description": "A Pythonic solution to watch-keeping, report dissemination, vessel tracking and metrics."
     }
   ],
   "awards": [
