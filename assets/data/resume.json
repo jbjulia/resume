@@ -22,7 +22,6 @@
       "location": "Adelphi, Maryland",
       "area": "Computer Science",
       "startDate": "2018",
-      "gpa": "3.6",
       "endDate": "2022",
       "studyType": "Associate of Arts, Bachelor of Applied Science"
     },
@@ -31,8 +30,7 @@
       "location": "Benson, North Carolina",
       "startDate": "2008",
       "endDate": "2012",
-      "studyType": "National Honor Society, National Society of High School Scholars",
-      "gpa": "4.0"
+      "studyType": "National Honor Society, National Society of High School Scholars"
     }
   ],
   "work": [
@@ -42,18 +40,18 @@
       "website": "",
       "endDate": "Present",
       "highlights": [
-        "FIOC Battle Watch Supervisor - Provided analysis, fusion and time-sensitive tactical InformationOperations support to U.S. and coalition units, and CJCS-mandated special missions.",
-        "Divisional Leading Petty Officer - Lead and supervised 13 Sailors in their successful daily operations.",
-        "NCS Python Fundamentals Instructor - Instructed and certified 14 students in Fundamentals of Python."
+        "Signals Analyst - Provided analysis, fusion and time-sensitive tactical Information Operations support to U.S. and coalition units, and CJCS-mandated special missions.",
+        "Leading Petty Officer - Supervised, lead and mentored 13 Sailors in their successful daily operations.",
+        "NCS Instructor - Devoted 240 hours of Python Fundamentals instruction to U.S. and coalition personnel."
       ],
-      "position": "Signals Analyst",
+      "position": "Cryptologic Technician Collection",
       "startDate": "August 2014"
     },
     {
       "highlights": [
-        "Radio dispatcher for emergency services (Fire, Police and EMS) across 7 campuses.",
-        "Maintainer for Access database that housed dispatcher records, call logs, incident reports and tickets.",
-        "Key custodian for entire campus, maintaining control of key and access to all facilities and vehicles"
+        "Dispatcher - Coordinated emergency services via radio communications across 7 campuses while leading and directing a 14-man security force in 12-hour shifts.",
+        "Key Custodian - Maintained control of key and access to all facilities and vehicles across 10 buildings.",
+        "Developer - Created and maintained Access database for records, call logs, incident reports and tickets."
       ],
       "company": "Wake Technical Community College - Main Campus",
       "position": "Telecommunications Specialist",
@@ -86,8 +84,8 @@
     },
     {
       "keywords": [
-        "NSAnet",
-        "NIPRnet",
+        "NSANet",
+        "NIPRNet",
         "Cryptologic Carry-On Program (CCOP)",
         "Ship's Signal Exploitation Equiptment (SSEE) Increment E/F",
         "Joint Worldwide Intelligence Communications System (JWICS)"
