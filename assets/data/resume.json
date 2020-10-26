@@ -3,122 +3,115 @@
   "headings": {
     "work": "",
     "education": "",
+    "skills": "Technical",
     "projects": "",
-    "awards": "",
-    "skills": "TECHNICAL"
+    "awards": ""
   },
   "basics": {
     "name": "Joseph Julian",
     "email": "joseph.b.julian@gmail.com",
-    "phone": "07497 65 9407",
+    "phone": "(919) 414-1384",
+    "website": "josephjulian.com",
     "location": {
-      "address": "Lincolnshire, U.K."
-    },
-    "website": "jbjulia.github.io/resume"
+      "address": "Lincolnshire, England"
+    }
   },
   "education": [
     {
       "institution": "University of Maryland Global Campus",
-      "location": "College Park, MD",
+      "location": "Adelphi, Maryland",
       "area": "Computer Science",
-      "studyType": "Bachelor of Applied Science",
-      "startDate": "Sep 2018",
-      "endDate": "Present",
-      "gpa": "3.7"
+      "startDate": "2018",
+      "gpa": "3.6",
+      "endDate": "2022",
+      "studyType": "Associate of Arts, Bachelor of Applied Science"
     },
     {
       "institution": "West Johnston High School",
-      "location": "Benson, NC",
-      "gpa": "4.0",
-      "startDate": "Sep 2008",
-      "endDate": "Jun 2012",
-      "area": "National Honor Society, National Society of High School Scholars"
+      "location": "Benson, North Carolina",
+      "startDate": "2008",
+      "endDate": "2012",
+      "studyType": "National Honor Society, National Society of High School Scholars",
+      "gpa": "4.0"
     }
   ],
   "work": [
     {
-      "company": "Department of Defense • National Security Agency",
-      "position": "Cryptologic Technician Collection Second Class (IW / SW)",
+      "company": "Department of Defense - National Security Agency",
+      "location": "Lincolnshire, England",
       "website": "",
-      "startDate": "Aug 2014",
       "endDate": "Present",
       "highlights": [
-        "FIOC Battle Watch Supervisor - Provided analysis, fusion and time-sensitive tactical Information Operations support to U.S. and coalition units, and CJCS-mandated special missions.",
+        "FIOC Battle Watch Supervisor - Provided analysis, fusion and time-sensitive tactical InformationOperations support to U.S. and coalition units, and CJCS-mandated special missions.",
         "Divisional Leading Petty Officer - Lead and supervised 13 Sailors in their successful daily operations.",
         "NCS Python Fundamentals Instructor - Instructed and certified 14 students in Fundamentals of Python."
       ],
-      "location": "Lincolnshire, U.K."
+      "position": "Signals Analyst",
+      "startDate": "August 2014"
     },
     {
       "highlights": [
         "Radio dispatcher for emergency services (Fire, Police and EMS) across 7 campuses.",
         "Maintainer for Access database that housed dispatcher records, call logs, incident reports and tickets.",
-        "Key custodian for entire campus, maintaining control of key and access to all facilities and vehicles."
+        "Key custodian for entire campus, maintaining control of key and access to all facilities and vehicles"
       ],
-      "company": "Wake Technical Community College • Main Campus",
-      "location": "Raleigh, NC",
-      "startDate": "Nov 2011",
-      "endDate": "Feb 2014",
-      "position": "Telecommunications Specialist"
+      "company": "Wake Technical Community College - Main Campus",
+      "position": "Telecommunications Specialist",
+      "location": "Raleigh, North Carolina",
+      "startDate": "November 2011",
+      "endDate": "February 2014"
     }
   ],
   "skills": [
     {
+      "level": "",
       "keywords": [
         "Top Secret SCI (CI - Scope polygraph completed May 2015)"
       ],
       "name": "Clearance"
     },
     {
-      "level": "",
       "keywords": [
         "Python",
         "Java",
-        "Visual Basic",
-        "SQL",
-        "C",
         "HTML",
         "CSS",
         "JavaScript",
+        "SQL",
         "PyQt",
-        "Flask",
-        "Bootstrap"
+        "Bootstrap",
+        "Flask"
       ],
       "name": "Programming"
     },
     {
       "keywords": [
-        "Windows (XP / Vista / 7 / 8 / 10)",
-        "Linux (Kali / Mint / Red Hat / Ubuntu)"
-      ],
-      "name": "Systems"
-    },
-    {
-      "keywords": [
+        "NSAnet",
+        "NIPRnet",
         "Cryptologic Carry-On Program (CCOP)",
-        "Ship's Signal Exploitation Equipment Increment E/F (SSEE INC E/F)",
+        "Ship's Signal Exploitation Equiptment (SSEE) Increment E/F",
         "Joint Worldwide Intelligence Communications System (JWICS)"
       ],
-      "name": "Technical Experience"
+      "name": "Systems"
     }
   ],
   "projects": [
     {
+      "name": "Athena",
+      "description": "A Pythonic solution to watch-keeping, report dissemination, vessel tracking and metrics.",
+      "url": "github.com/jbjulia/athena",
       "keywords": [
         "Python",
         "PyQt"
-      ],
-      "url": "github.com/jbjulia/athena",
-      "name": "Athena",
-      "description": "A Pythonic solution to watch-keeping, report dissemination, vessel tracking and metrics."
+      ]
     }
   ],
   "awards": [
     {
       "title": "Navy and Marine Corps Achievement Medal",
-      "date": "Feb 2018",
-      "awarder": "Secretary of the Navy",
-      "summary": "Professional achievement in superior performance of duties."
+      "date": "June 2020",
+      "summary": "For applying out-of-rate knowledge in agile software development, modernizing operating procedures by creating project Athena, a suite of four user-centric applications to streamline watch-standing functions.",
+      "awarder": "Secretary of the Navy"
     }
   ],
   "sections": [
