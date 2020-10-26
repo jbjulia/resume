@@ -20,17 +20,16 @@
     {
       "institution": "University of Maryland Global Campus",
       "location": "Adelphi, Maryland",
-      "area": "Computer Science",
       "startDate": "2018",
-      "endDate": "2022",
-      "studyType": "Associate of Arts, Bachelor of Applied Science"
+      "studyType": "Bachelor of Applied Science - Computer Science, 3.7 GPA",
+      "endDate": "2022"
     },
     {
       "institution": "West Johnston High School",
       "location": "Benson, North Carolina",
       "startDate": "2008",
       "endDate": "2012",
-      "studyType": "National Honor Society, National Society of High School Scholars"
+      "area": "Diploma - National Honor Society, National Society of High School Scholars"
     }
   ],
   "work": [
@@ -40,11 +39,11 @@
       "website": "",
       "endDate": "Present",
       "highlights": [
-        "Signals Analyst - Provided analysis, fusion and time-sensitive tactical Information Operations support to U.S. and coalition units, and CJCS-mandated special missions.",
+        "FIOC Battlewatch Superviser - Provided analysis, fusion and time-sensitive tactical Information Operations support to U.S. and coalition units, and CJCS-mandated special missions.",
         "Leading Petty Officer - Supervised, lead and mentored 13 Sailors in their successful daily operations.",
         "NCS Instructor - Devoted 240 hours of Python Fundamentals instruction to U.S. and coalition personnel."
       ],
-      "position": "Cryptologic Technician Collection",
+      "position": "Signals Analyst",
       "startDate": "August 2014"
     },
     {
@@ -75,10 +74,12 @@
         "HTML",
         "CSS",
         "JavaScript",
-        "SQL",
+        "Visual Basic",
         "PyQt",
         "Bootstrap",
-        "Flask"
+        "Flask",
+        "SQL",
+        "JSON"
       ],
       "name": "Programming"
     },
